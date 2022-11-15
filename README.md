@@ -16,4 +16,5 @@ An analogue of a mini-game for moving cubes in the python language
 Назначение клавиш:
 
 RESTART - перезапускает игру с последовательность, соответсвующей изначальной
+
 QUIT - закрывает игру
